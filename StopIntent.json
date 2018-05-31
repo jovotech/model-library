@@ -1,0 +1,7 @@
+{
+	"name": "StopIntent",
+	"phrases": [
+		"stop",
+		"goodbye"
+	]
+}

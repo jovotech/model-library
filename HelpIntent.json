@@ -1,0 +1,7 @@
+{
+	"name": "HelpIntent",
+	"phrases": [
+		"help",
+		"what can i do"
+	]
+}
