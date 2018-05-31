@@ -1,6 +1,10 @@
 {
 	"name": "NoIntent",
+	"alexa": {
+		"name": "AMAZON.NoIntent"
+	},
 	"phrases": [
-		"no"
+		"no",
+		"no thanks"
 	]
 }

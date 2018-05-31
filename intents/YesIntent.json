@@ -1,9 +1,11 @@
 {
 	"name": "YesIntent",
+	"alexa": {
+		"name": "AMAZON.YesIntent"
+	},
 	"phrases": [
 		"yes",
-		"confirm",
-		"absolutely",
+		"yes please",
 		"sure"
 	]
 }

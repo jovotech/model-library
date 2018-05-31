@@ -1,0 +1,11 @@
+{
+	"name": "StartOverIntent",
+	"alexa": {
+		"name": "AMAZON.StartOverIntent"
+	},
+	"phrases": [
+		"start over",
+		"restart",
+		"start again"
+	]
+}

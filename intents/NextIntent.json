@@ -1,0 +1,11 @@
+{
+	"name": "NextIntent",
+	"alexa": {
+		"name": "AMAZON.NextIntent"
+	},
+	"phrases": [
+		"next",
+		"skip",
+		"skip forward"
+	]
+}

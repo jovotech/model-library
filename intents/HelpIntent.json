@@ -1,7 +1,12 @@
 {
 	"name": "HelpIntent",
+	"alexa": {
+		"name": "AMAZON.HelpIntent"
+	},
 	"phrases": [
 		"help",
+		"help me",
+		"can you help me",
 		"what can i do"
 	]
 }

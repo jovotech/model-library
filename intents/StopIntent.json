@@ -1,5 +1,8 @@
 {
 	"name": "StopIntent",
+	"alexa": {
+		"name": "AMAZON.StopIntent"
+	},
 	"phrases": [
 		"stop",
 		"goodbye"

@@ -1,0 +1,11 @@
+{
+	"name": "ResumeIntent",
+	"alexa": {
+		"name": "AMAZON.ResumeIntent"
+	},
+	"phrases": [
+		"resume",
+		"continue",
+		"keep going"
+	]
+}

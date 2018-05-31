@@ -1,0 +1,10 @@
+{
+	"name": "PauseIntent",
+	"alexa": {
+		"name": "AMAZON.PauseIntent"
+	},
+	"phrases": [
+		"pause",
+		"pause that"
+	]
+}

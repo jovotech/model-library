@@ -1,6 +1,12 @@
 {
 	"name": "RepeatIntent",
+	"alexa": {
+		"name": "AMAZON.RepeatIntent"
+	},
 	"phrases": [
-		"repeat"
+		"repeat",
+		"could you repeat that",
+		"what",
+		"say that again"
 	]
 }
