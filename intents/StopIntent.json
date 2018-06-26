@@ -1,10 +1,14 @@
 {
 	"name": "StopIntent",
-	"alexa": {
-		"name": "AMAZON.StopIntent"
-	},
-	"phrases": [
-		"stop",
-		"goodbye"
-	]
+      	"alexa": {
+        	"name": "AMAZON.StopIntent"
+      	},
+      	"dialogflow": {
+        	"webhookUsed": true,
+        	"events": [
+			{
+				"name": "actions_intent_CANCEL"
+			}
+        	]
+      	}
 }
